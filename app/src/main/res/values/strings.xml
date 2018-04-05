@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hot News</string>
+    <string name="unknown_error">Unknown Error</string>
+    <string name="server_error">Server Error</string>
+    <string name="empty_data">Nothing to show</string>
+    <string name="network_unavailable">Network is unavailable</string>
+    <string name="retry">RETRY</string>
+    <string name="sort">Sorting by</string>
+</resources>
